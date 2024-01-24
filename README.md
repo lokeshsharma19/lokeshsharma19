@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Shopping-site**
+- 🔭 I’m currently working on **AMDb-Major Project**
 
 - 🌱 I’m currently learning **ReactJs, ExpressJs, NodeJs,...**
 
